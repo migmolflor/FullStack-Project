@@ -1,5 +1,4 @@
 ``` mermaid
-graph LR;
 sequenceDiagram
     participant browser
     participant server
